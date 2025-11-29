@@ -1,4 +1,6 @@
-# Prometheus
+# Clio
+
+Named after the Muse of history, records and chronicles...
 
 A lightweight wrapper for efficient data storage and retrieval using Parquet format.
 
